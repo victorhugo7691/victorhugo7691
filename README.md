@@ -1,5 +1,4 @@
 # painel
-Painel
 Hi 👋 My name is Victor Hugo
 ============================
 
