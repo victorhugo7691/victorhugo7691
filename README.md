@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I live in Goiânia - GO - Brasil
-* ✉️  You can contact me at [victor-f250@hotmail.com](mailto:victor-f250@hotmail.com)
+* ✉️  You can contact me at [e-mail](mailto:victor-f250@hotmail.com)
 * 🚀  I'm currently working on [Ernst & Young](https://www.ey.com/pt_br)
 
 <a href="https://www.twitch.tv/victorhugo7691" target="_blank" rel="noreferrer"><img
